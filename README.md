@@ -15,8 +15,9 @@ hope you like! I accept constructive criticism
 <img src="https://img.shields.io/badge/JavaScript-3F6973?style=for-the-badge&logo=javascript&logoColor=black">
  <br>
 <h3>learning 🥶</h3>
-<img src="https://img.shields.io/badge/java-1B3946?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Java-1B3946?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-4B757B?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-3F6973?style=for-the-badge&logo=C&logoColor=white">
 </div>
 
 <h3>contact:</h3>
